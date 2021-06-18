@@ -1,12 +1,7 @@
-import React from "react";
-import "../styles/components/App.css";
+import React from 'react';
+import '../styles/components/App.css';
+const hola = 'hola';
 
-const App = () => {
-  return (
-    <div>
-      <h1>Hola Mundo</h1>
-    </div>
-  );
-};
+const App = () => <h1>Hola Mundo</h1>;
 
 export default App;
