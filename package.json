@@ -13,6 +13,7 @@
     "lint": "eslint src/ --fix"
   },
   "dependencies": {
+    "firebase-tools": "^9.16.0",
     "leaflet": "^1.7.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
